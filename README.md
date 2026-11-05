@@ -42,14 +42,7 @@ music_archeology_sql_project/
 ├── scripts/
 │   └── import_spotify.py
 │
-├── powerbi/
-│   └── screenshots/
-│       ├── overview.png
-│       ├── listening_patterns.png
-│       └── music_evolution.png
-│
 ├── requirements.txt
-├── .env.example
 ├── .gitignore
 └── README.md
 ```
